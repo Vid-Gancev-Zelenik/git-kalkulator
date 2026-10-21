@@ -15,4 +15,3 @@ return a ** b
 # Opomba 1
 # Opomba 2
 AVTOR = 'Student'
-# Napacna vrstica
