@@ -1,2 +1,7 @@
 *.log
 __pycache__/
+.env
+*.pem
+# Operacijski sistem in urejevalniki
+.DS_Store
+.vscode/
