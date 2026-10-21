@@ -14,3 +14,4 @@ def potenca(a, b):
 return a ** b
 # Opomba 1
 # Opomba 2
+AVTOR = 'Student'
