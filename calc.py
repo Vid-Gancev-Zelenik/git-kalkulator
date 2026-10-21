@@ -10,3 +10,5 @@ def mnozenje(a, b):
 return a * b
 def deljenje(a, b):
 return a / b if b != 0 else "Napaka: deljenje z 0"
+def potenca(a, b):
+return a ** b
